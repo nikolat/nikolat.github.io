@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+a:link {
+	color: #368;
+}
+a:visited {
+	color: #69b;
+}
+a:hover {
+	color: #bcd;
+}
+a:active {
+	color: #246;
+}
+body {
+	color: #131;
+	background-color: #efe;
+	padding: 0 20%;
+}
+h1 {
+	text-align: center;
+	background-color: #aca;
+}
+h2 {
+	border-left: 10px solid #696;
+	border-bottom: 1px solid #696;
+	padding-left: 10px;
+}
