@@ -26,3 +26,6 @@ h2 {
 	border-bottom: 1px solid #696;
 	padding-left: 10px;
 }
+h3 {
+	border-bottom: 1px dotted #363;
+}
