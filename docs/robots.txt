@@ -1,1 +1,2 @@
+Sitemap: https://nikolat.github.io/sirefaso/sitemap.xml
 Sitemap: https://nikolat.github.io/sosiremi/sitemap.xml
